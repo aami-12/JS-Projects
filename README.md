@@ -10,5 +10,5 @@
 ## Scroll-Animation : [Live Demo](https://aami-12.github.io/JS-Projects/scroll-animation-7/)
 ## Sound-Keyboard : [Live Demo](https://aami-12.github.io/JS-Projects/sound-keyboard-9/)
 ## Cinema Application with search functionality : [Live Demo](https://aami-12.github.io/JS-Projects/js-movieapp-12/)
-## Website social media counter : [Live Demo](hhttps://aami-12.github.io/JS-Projects/website-counter-11/)
+## Website social media counter : [Live Demo](https://aami-12.github.io/JS-Projects/website-counter-11/)
 
