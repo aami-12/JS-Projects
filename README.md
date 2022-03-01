@@ -12,4 +12,5 @@
 ## Cinema Application with search functionality : [Live Demo](https://aami-12.github.io/JS-Projects/js-movieapp-12/)
 ## Website social media counter : [Live Demo](https://aami-12.github.io/JS-Projects/website-counter-11/)
 ## water-reminder : [Live Demo](https://aami-12.github.io/JS-Projects/water-reminder-13/)
+## Live-Clock : [Live Demo](https://aami-12.github.io/JS-Projects/clock-14/)
 
